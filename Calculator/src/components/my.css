@@ -1,0 +1,27 @@
+#calculator{
+  height:400px;
+  width:300px;
+  display: flex;
+  flex-direction: column;
+  background-color: burlywood;
+}
+#numeric{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+#screen1{
+    width:293px;
+    height:40px;
+}
+#operations{
+       display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
